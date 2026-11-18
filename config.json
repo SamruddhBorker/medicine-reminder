@@ -1,0 +1,10 @@
+{
+  "default_country_code": "91",
+  "channels": ["console"],
+  "missed_after_minutes": 60,
+  "refill_warning_days": 5,
+  "patient": {"name": "Aji", "phone": "", "email": ""},
+  "caregivers": [
+    {"name": "Caregiver One", "phone": "", "email": ""}
+  ]
+}
